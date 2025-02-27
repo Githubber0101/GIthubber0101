@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm **Armand van der Colf**, a third-year **BSc Computer S
 
 I am currently pursuing a **Bachelor of Science in Computer Science**. Here is an overview of my academic achievements and coursework:
 
-### **Current Modules (Third Year):**
+### **Current Modules (Final Year):**
 - **COS 301** - Software Engineering 301
 - **COS 314** - Artificial Intelligence 314
 - **COS 326** - Database Systems 326
