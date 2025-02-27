@@ -78,8 +78,8 @@ I am currently pursuing a **Bachelor of Science in Computer Science**. Here is a
 
 ## 🌐 Connect With Me
 
-- **LinkedIn**: [[LinkedIn URL](https://www.linkedin.com/in/armand-van-der-colf/)]
-- **Email**: [Your Email address](armandvdcolf@gmail.com)]
+- **LinkedIn**: [[armandvdcolf@gmail.com](https://www.linkedin.com/in/armand-van-der-colf/)]
+- **Email**: [[armandvdcolf@gmail.com](armandvdcolf@gmail.com)]
 
 ---
 
