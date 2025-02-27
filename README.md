@@ -1,11 +1,19 @@
 # Armand van der Colf's GitHub Profile 👋
 
-Welcome to my GitHub! I'm **Armand van der Colf**, a third-year **BSc Computer Science student** at the **University of Pretoria**, passionate about **software development**, **data science**, **cybersecurity**, and **digital forensics**.
+Welcome to my GitHub! I'm **Armand van der Colf**, a third-year **BSc Computer Science student** at the **University of Pretoria**, passionate about **software development**, **data science**, **cybersecurity**, **digital forensics**, and **eSports**.
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Githubber0101&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+### Top Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Githubber0101&layout=compact)](https://github.com/Githubber0101)
 
 ## 🚀 About Me
 
 - 🎓 **Current Education**: Third-year BSc Computer Science student at the University of Pretoria
-- 💻 **Passion**: Software engineering, artificial intelligence, data science, **cybersecurity**, and **digital forensics**
+- 💻 **Passion**: Software engineering, artificial intelligence, data science, **cybersecurity**, **digital forensics**, and **eSports**
 - 🌱 **Currently Learning**: Deepening my understanding of **Cybersecurity**, **Digital Forensics**, **Artificial Intelligence**, **Machine Learning**, and **Data Science**
 - 👯 **Looking to Collaborate On**: Open-source projects, coding challenges, AI/ML, **cybersecurity** projects, and **digital forensics** research
 - 📫 **Contact**: [Your Email] | [Your LinkedIn URL] | [Your Website or Portfolio]
@@ -47,14 +55,6 @@ I am currently pursuing a **Bachelor of Science in Computer Science**. Here is a
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=armandvdc&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
-### Top Languages:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armandvdc&layout=compact)](https://github.com/armandvdc)
-
 ## 🛠️ Skills and Technologies
 
 - **Languages**: Python, Java, C++, JavaScript, SQL
@@ -67,19 +67,24 @@ I am currently pursuing a **Bachelor of Science in Computer Science**. Here is a
 - **Cybersecurity**: Network Security, Cryptography, Penetration Testing, Threat Analysis
 - **Digital Forensics**: Data Recovery, Forensic Investigations, Malware Analysis, Incident Response
 
-## 💬 Achievements & Certifications
+## 🎮 eSports and Leadership Experience
 
-- **Pass with Distinction** in multiple modules:
-  - AIM 111, AIM 121, ALL 121
-  - JCP 202 Community-Based Project
-- **Notable Performance** in core computer science modules including **COS 110**, **COS 122**, and **COS 132**
+- **Board Member at Mind Sports South Africa**  
+  - **Jan 2024 - Present**  
+  - Act of Parliament recognizes **Mind Sports South Africa** as the national controlling body for **eSports** in South Africa.
+
+- **Athletes Committee Member at International Esports Federation (IESF)**  
+  - **Jan 2023 - Present**  
+  - IESF is a global organization with a mission to have **eSports** recognized as a legitimate sport worldwide.
+
+- **Chairperson at TuksEsports**  
+  - **Jan 2022 - Present**  
+  - Leading **TuksEsports**, the eSports club at the University of Pretoria, overseeing events, competitions, and community building.
 
 ## 🌐 Connect With Me
 
-- **LinkedIn**: [LinkedIn URL]
-- **Twitter**: [Twitter handle]
-- **Portfolio**: [Your Portfolio/Website link]
-- **Email**: [Your Email address]
+- **LinkedIn**: [[LinkedIn URL](https://www.linkedin.com/in/armand-van-der-colf/)]
+- **Email**: [Your Email address](armandvdcolf@gmail.com)]
 
 ---
 
@@ -101,4 +106,4 @@ Feel free to connect with me if you're interested in collaboration or have any o
 
 ### 📊 My Statistics
 
-![Armand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=armandvdc&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=radical)
+![Armand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Githubber0101&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=radical)
