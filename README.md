@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm **Armand van der Colf**, a third-year **BSc Computer S
 - 💻 **Passion**: Software engineering, artificial intelligence, data science, **cybersecurity**, **digital forensics**, and **eSports**
 - 🌱 **Currently Learning**: Deepening my understanding of **Cybersecurity**, **Digital Forensics**, **Artificial Intelligence**, **Machine Learning**, and **Data Science**
 - 👯 **Looking to Collaborate On**: Open-source projects, coding challenges, AI/ML, **cybersecurity** projects, and **digital forensics** research
-- 📫 **Contact**: [[email](mailto:armandvdcolf@gmail.com)] | [[Linkedin](https://www.linkedin.com/in/Armand-van-der-Colf)]
+- 📫 **Contact**: [[Mail](mailto:armandvdcolf@gmail.com)] | [[Linkedin](https://www.linkedin.com/in/Armand-van-der-Colf)]
 
 ## 📚 Academic Background
 
@@ -78,8 +78,8 @@ I am currently pursuing a **Bachelor of Science in Computer Science**. Here is a
 
 ## 🌐 Connect With Me
 
-- **LinkedIn**: [[armandvdcolf@gmail.com](https://www.linkedin.com/in/armand-van-der-colf/)]
-- **Email**: [[armandvdcolf@gmail.com](armandvdcolf@gmail.com)]
+- **LinkedIn**: [[Linkedin](https://www.linkedin.com/in/armand-van-der-colf/)]
+- **Email**: [[Mail](armandvdcolf@gmail.com)]
 
 ---
 
