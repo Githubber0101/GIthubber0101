@@ -48,10 +48,6 @@ I am currently pursuing a **Bachelor of Science in Computer Science**. Here is a
 - **WST 121** - Mathematical Statistics 121
 - **STK 353** - The Science of Data Analytics 353
 
-### **Electives Completed:**
-- **GLY 155** - Introduction to Geology
-- **GLY 163** - Earth History
-
 ---
 
 ## 🛠️ Skills and Technologies
