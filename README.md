@@ -21,6 +21,16 @@ Welcome to my GitHub! I'm **Armand van der Colf**, a third-year **BSc Computer S
 
 I am currently pursuing a **Bachelor of Science in Computer Science**. Here is an overview of my academic achievements and coursework:
 
+### **Current Modules (Third Year):**
+- **COS 301** - Software Engineering 301
+- **COS 314** - Artificial Intelligence 314
+- **COS 326** - Database Systems 326
+- **COS 330** - Computer Security and Ethics 330
+- **COS 332** - Computer Networks 332
+- **COS 333** - Programming Languages 333
+- **COS 341** - Compiler Construction 341
+- **COS 344** - Computer Graphics 344
+
 ### **Core Modules Completed:**
 - **COS 110** - Program Design: Introduction
 - **COS 122** - Operating Systems
@@ -33,7 +43,7 @@ I am currently pursuing a **Bachelor of Science in Computer Science**. Here is a
 - **COS 226** - Concurrent Systems
 - **COS 284** - Computer Organization and Architecture
 
-### **Mathematics Modules:**
+### **Mathematics Modules Completed:**
 - **WTW 114** - Calculus 114
 - **WTW 115** - Discrete Structures 115
 - **WTW 124** - Mathematics 124
@@ -41,7 +51,7 @@ I am currently pursuing a **Bachelor of Science in Computer Science**. Here is a
 - **WTW 146** - Linear Algebra 146
 - **WTW 148** - Calculus 148
 
-### **Statistics & Data Science:**
+### **Statistics & Data Science Completed:**
 - **STK 110** - Statistics 110
 - **STK 120** - Statistics 120
 - **WST 111** - Mathematical Statistics 111
