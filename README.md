@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm **Armand van der Colf**, a third-year **BSc Computer S
 
 ### 📊 My GitHub Contributions
 
-![GitHub stats](https://streak-stats.demolab.com?user=Githubber0101&date_format=j%2Fd%2Fyy&count_private=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Githubber0101&show_icons=true&count_private=true&hide_title=true&theme=radical)
  
 **Contributions since March 2024:**
 - 227 contributions in 2024
