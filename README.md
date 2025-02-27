@@ -2,11 +2,12 @@
 
 Welcome to my GitHub! I'm **Armand van der Colf**, a third-year **BSc Computer Science student** at the **University of Pretoria**, passionate about **software development**, **data science**, **cybersecurity**, **digital forensics**, and **eSports**.
 
-### 📊 My Contributions (Jan 2024 - Present)
+### 📊 My Contributions (Starting from March 6, 2024)
 
 ![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Githubber0101&theme=radical)
 
 ---
+
 
 ### 📅 Yearly Contributions
 - **2023**: 120 contributions
