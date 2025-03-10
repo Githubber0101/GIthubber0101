@@ -54,9 +54,6 @@ I am currently pursuing a **Bachelor of Science in Computer Science**. Here is a
 ### **Statistics & Data Science Completed:**
 - **STK 110** - Statistics 110
 - **STK 120** - Statistics 120
-- **WST 111** - Mathematical Statistics 111
-- **WST 121** - Mathematical Statistics 121
-- **STK 353** - The Science of Data Analytics 353
 
 ---
 
