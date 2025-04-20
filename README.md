@@ -1,6 +1,6 @@
 # Armand van der Colf's GitHub Profile 👋
 
-Welcome to my GitHub! I'm **Armand van der Colf**, a third-year **BSc Computer Science student** at the **University of Pretoria**, passionate about **software development**, **data science**, **cybersecurity**, **digital forensics**, and **eSports**.
+Welcome to my GitHub! I'm **Armand van der Colf**, a final-year **BSc Computer Science student** at the **University of Pretoria**, passionate about **software development**, **data science**, **cybersecurity**, **digital forensics**, and **eSports**.
 
 ### 📊 My GitHub Contributions
 
@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm **Armand van der Colf**, a third-year **BSc Computer S
 
 ## 🚀 About Me
 
-- 🎓 **Current Education**: Third-year BSc Computer Science student at the University of Pretoria
+- 🎓 **Current Education**: Final-year BSc Computer Science student at the University of Pretoria
 - 💻 **Passion**: Software engineering, artificial intelligence, data science, **cybersecurity**, **digital forensics**, and **eSports**
 - 🌱 **Currently Learning**: Deepening my understanding of **Cybersecurity**, **Digital Forensics**, **Artificial Intelligence**, **Machine Learning**, and **Data Science**
 - 👯 **Looking to Collaborate On**: Open-source projects, coding challenges, AI/ML, **cybersecurity** projects, and **digital forensics** research
